@@ -77,7 +77,6 @@ To avoid unnecessary resource usage:
 
 ---
 
-## 🔗 Linked Labs
-
+##
 
 This lab builds the foundation to move into **fine-grained access control** using custom roles and RBAC.
