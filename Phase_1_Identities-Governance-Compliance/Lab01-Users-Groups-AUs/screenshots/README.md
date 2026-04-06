@@ -79,7 +79,5 @@ To avoid unnecessary resource usage:
 
 ## 🔗 Linked Labs
 
-➡️ **Next Lab:**  
-**Lab 2 – Custom RBAC Roles and Delegation**
 
 This lab builds the foundation to move into **fine-grained access control** using custom roles and RBAC.
