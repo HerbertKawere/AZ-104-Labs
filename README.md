@@ -11,43 +11,49 @@ Welcome to my AZ-104 Hands-On Lab Portfolio, a structured, hands-on project demo
 This project is organized into key phases aligned with AZ-104 domains and real-world cloud operations:
 readiness:
 
-### Phase 1: Identity & Governance (Core  Strength)
+### Phase 1: Identity, Governance & Compliance
 - Managing users, groups, and role assignments in Entra ID
-- Implementing RBAC and least-privilege access
-- Administrative Units for scoped delegation
-- Access Reviews, audit logs, and sign-in monitoring
-- Conditional Access and identity protection concepts
+- RBAC and least-privilege access
+- Airchitectural Components of Azure
+- Azure Policy Initiatives
+- Entra SSPR
+
+### Phase 2: VNets
+- Virtual Networking
+- NSGs
+- Azure DNS
+- VNet Peering
+- Azure Loadbalancer
+- Application Gateway
+- Network Watcher
 
 
-### Phase 2: Storage
-- Securing Azure Storage accounts
-- Managing blob, file, and queue storage
-- SAS, access policies, and encryption
-- Monitoring and troubleshooting
+### Phase 3: Storage
+- Storage Accounts
+- Blob Storage
+- Storage Security
+- Azure Files
 
-### Phase 3: Compute
-- Deploying and managing Virtual Machines
-- VM scale sets and availability
-- App Services and container instances
-- Automation and update management
+### Phase 4: Compute
+- Azure VMs
+- VMs Availability Zones
+- Azure App Service Plans
+- App service
+- Container Instances
 
-### Phase 4: Networking
-- VNets, subnets, and peering
-- NSGs and Azure Firewall
-- VPN Gateway and secure access design
-- DNS and private endpoints
+### Phase 4: AzureBackup
+- Protect VMs with AzureBackup
+- Azure Mointor
 
 ---
 
 ## 🎯 Approach
 
 - Hands-on, real-world lab scenarios
-- Focus on Azure Portal + PowerShell automation
-- Security-first mindset (Zero Trust principles)
+- Focus on Azure Portal + IaC (PowerShell, ARM & Bicep)
 - Clean GitHub documentation with screenshots
 - Cost-aware lab cleanup practices
 - Emphasis on why configurations matter, not just how
-
 
 ---
 
@@ -70,15 +76,14 @@ Each lab includes:
 
 ## 🔍 Keywords
 
-Azure Administrator • Cloud Security • Microsoft Entra ID • Conditional Access •
-RBAC • Azure Networking • Intune • Defender • Identity Security •
-PowerShell • Zero Trust • Microsoft 365 Security
+Azure Administrator • Cloud Security • Microsoft Entra ID •
+RBAC • Azure Networking • PowerShell • IaC (ARM & Bicep) • Zero Trust Principle
 
 ---
 
-## 📢 Final Notes
+##  📢 Final Notes
 
-This portfolio reflects my hands-on experience implementing secure Azure and Microsoft 365 environments, with a focus on identity, access control, and endpoint security.
+This portfolio reflects my hands-on experience implementing secure Azure environments, with a focus on managing azure resources
 
 I’m continuously building and refining labs aligned with real-world cloud security and administration practices.
 ---
