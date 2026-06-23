@@ -84,8 +84,10 @@ RBAC • Azure Networking • PowerShell • IaC (ARM & Bicep) • Zero Trust Pr
 ##  📢 Final Notes
 
 This portfolio reflects my hands-on experience implementing secure Azure environments, with a focus on managing azure resources
-I’m continuously building and refining labs aligned with real-world cloud security and administration practices.
+
 ---
+
+I’m continuously building and refining labs aligned with real-world cloud security and administration practices.
 
 ---
 
